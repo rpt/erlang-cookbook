@@ -1,0 +1,7 @@
+.git
+.gitignore
+Berksfile
+Berksfile.lock
+cookbooks/*
+.vagrant
+Vagrantfile

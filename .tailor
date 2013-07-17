@@ -1,0 +1,6 @@
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+
+Tailor.config do |c|
+  c.recursive_file_set '*.rb'
+end
